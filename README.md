@@ -1,5 +1,5 @@
 # RAG Document Intelligence Pipeline
-**AI-powered document Q&A system for multi-document mortgage blobs -- from raw PDF to cited answers in under 3 seconds.**
+**AI-powered document Q&A system for multi-document mortgage blobs: Go from raw PDF to cited answers in under 3 seconds!**
 
 Built during a Data and AI Externship at Outamation (Jan 2026 to Apr 2026). The pipeline automatically segments, classifies, and indexes 200+ page mortgage documents, then answers natural-language queries with source citations and page references.
 
